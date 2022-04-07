@@ -1,3 +1,7 @@
 Đây là A
 
+<<<<<<< HEAD
 Edit từ alpha
+=======
+Edit từ beta
+>>>>>>> b96ee3b (edit from beta)
